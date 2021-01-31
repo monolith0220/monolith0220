@@ -1,6 +1,6 @@
 # monolith
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![HitCount](http://hits.dwyl.com/monolith0220/monolith0220.svg)
 
 ### Hi there, I'm <a href="https://mono-lith.com" target="_blank">Monolith</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
