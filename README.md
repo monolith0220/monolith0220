@@ -4,7 +4,7 @@ Currently, I am engaged in front-end development.
 
 <br />
 
-<strong>* Languages</strong>
+<strong>🚀 Languages</strong>
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
