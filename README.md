@@ -13,7 +13,7 @@ Currently, I am engaged in front-end development.
 
 <br />
 
-<strong>* Tools</strong>
+<strong>🚀 Tools</strong>
 <p> 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -24,7 +24,7 @@ Currently, I am engaged in front-end development.
 
 <br />
 
-<strong>* Trying by myself</strong>
+<strong>🚀 Trying by myself</strong>
 <p> 
 
 <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
