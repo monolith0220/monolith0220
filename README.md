@@ -37,6 +37,8 @@ Currently, I am engaged in front-end development.
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monolith0220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
