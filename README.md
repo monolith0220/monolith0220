@@ -40,8 +40,3 @@ Currently, I am engaged in front-end development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monolith0220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monolith0220&hide=css,html,Shell,Dockerfile,blade&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=monolith0220&theme=tokyonight&show_icons=true&icon_color=36B0A3&line_height=40&count_private=truer&disable_animations=true" />
-
-</p>
